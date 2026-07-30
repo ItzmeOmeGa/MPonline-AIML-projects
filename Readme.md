@@ -453,9 +453,3 @@ python train.py
 python evaluate.py
 
 ```
-
-*Renders a 60 FPS graphical simulation of the trained lander executing precision landings between flags.*
-
-```
-
-```
