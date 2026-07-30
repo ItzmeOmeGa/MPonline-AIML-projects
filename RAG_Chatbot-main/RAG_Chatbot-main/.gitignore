@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Data and Vector database backups
+data/*
+!data/.gitkeep
+vector_store/*
+!vector_store/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
